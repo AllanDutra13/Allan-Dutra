@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="ptbr">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Par ou impar</title>
@@ -20,11 +18,3 @@
             
             parOuImpar(numero);
         </script>
-
-    
-</head>
-<body>
-    
-</body>
-</html>
-E
