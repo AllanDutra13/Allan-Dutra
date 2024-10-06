@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ptbr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Par ou impar</title>
+    
+        <script>
+            function parOuImpar(numero) {
+                var situacao;
+                if (numero % 2 === 0) {
+                     alert("O numero "+ numero + " é par");
+                }
+                else {
+                    alert("O numero "+ numero + " é impar");
+                }
+                alert("O aluno obteve média: " + media + " e foi " + situacao);
+            }
+            let numero = parseFloat(prompt("Digite o número a ser verificado:"));
+            
+            parOuImpar(numero);
+        </script>
+
+    
+</head>
+<body>
+    
+</body>
+</html>
+E
