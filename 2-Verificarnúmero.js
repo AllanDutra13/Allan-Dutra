@@ -1,6 +1,3 @@
-<title>Par ou impar</title>
-    
-        <script>
             function parOuImpar(numero) {
                 var situacao;
                 if (numero % 2 === 0) {
@@ -14,4 +11,4 @@
             let numero = parseFloat(prompt("Digite o número a ser verificado:"));
             
             parOuImpar(numero);
-        </script>
+       
