@@ -1,5 +1,4 @@
- <title>Contador de Vogais</title>
-    <script>
+
         function contarVogais(str) {
             const vogais = "aeiouAEIOU"; // Considera vogais maiúsculas e minúsculas
             let contador = 0;
