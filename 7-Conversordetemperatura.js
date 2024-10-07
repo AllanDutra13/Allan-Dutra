@@ -1,5 +1,3 @@
-<title>conversor de temperatura</title>
-    <script>
         function cpf(temp){
             return (temp * (9/5)) + 32
         }
