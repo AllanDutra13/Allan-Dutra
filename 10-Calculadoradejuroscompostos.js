@@ -1,6 +1,3 @@
-<title>Calculadora de Juros Compostos</title>
-    <script>
-        
         function calcularJurosCompostos(valorInicial, taxaAnual, anos) {
             return valorInicial * ((1 + (taxaAnual / 100)) ** anos);
         }
