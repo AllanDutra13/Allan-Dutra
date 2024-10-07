@@ -1,6 +1,4 @@
- <title>Verificador de Ano Bissexto</title>
-    <script>
-
+ 
         // function verificar(ano){
         //     let bissexto =false
 
