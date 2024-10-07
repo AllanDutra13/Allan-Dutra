@@ -1,5 +1,4 @@
-<title>Calculadora de Fatorial</title>
-    <script>
+>
         function fatorial(numero){
             var acumulador=0
             var controle = 1
