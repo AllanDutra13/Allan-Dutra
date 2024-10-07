@@ -1,8 +1,4 @@
-    <title>Lista de Tarefas</title>
-
-    <script>
-
-class Tarefa {
+ class Tarefa {
     constructor(id, descricao) {
         this.id = id;
         this.descricao = descricao;
