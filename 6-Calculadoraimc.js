@@ -1,5 +1,3 @@
-<title>Document</title>
-    <script>
         function IMC(peso,altura){
             return peso / (altura * altura)
         }
