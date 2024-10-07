@@ -1,5 +1,3 @@
-<title>Simulador de Jogo de Dados</title>
-    <script>
         function jogarDado(){
             return Math.floor(Math.random() * 6) + 1;
         }
